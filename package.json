@@ -1,0 +1,11 @@
+{
+  'name' : 'msgpack-rpc',
+  'version' : '0.0.1',
+  'description' : 'describe stuff',
+  'homepage' : 'http://github.com/bpot/node-msgpack-rpc',
+  'main' : './msgpack-rpc',
+  'repository' :
+     { "type" : "git"
+     , "url" : "http://github.com/bpot/node-msgpack-rpc.git"
+     }
+}
