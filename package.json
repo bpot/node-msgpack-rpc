@@ -1,14 +1,14 @@
 {
-  'name' : 'msgpack-rpc',
-  'version' : '0.0.1',
-  'description' : 'node-msgpack-rpc is an implementation of the Msgpack-RPC protocol specification for node.js',
-  'homepage' : 'https://github.com/bpot/node-msgpack-rpc',
-  'main' : './lib/msgpack-rpc',
-  'repository' : { 
+  "name" : "msgpack-rpc",
+  "version" : "0.0.1",
+  "description" : "node-msgpack-rpc is an implementation of the Msgpack-RPC protocol specification for node.js",
+  "homepage" : "https://github.com/bpot/node-msgpack-rpc",
+  "main" : "./lib/msgpack-rpc",
+  "repository" : { 
     "type" : "git",
      "url" : "https://github.com/bpot/node-msgpack-rpc.git"
   },
-  'directories': {
+  "directories": {
     "lib": "lib"
   }
 }
